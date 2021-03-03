@@ -1,0 +1,28 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+#imgBurger{
+    width: 40px;
+    height: 40px;
+}
+a{
+    font-size: medium;
+}
+h5{
+    color: rgb(214, 194, 16);
+}
+.carousel-item{
+    transition: transform 2s ease, opacity .5s ease-out
+}
+li:hover{
+    border-bottom: 4px solid #e0cb0d;
+
+ 
+}
+a:hover{
+    font-size: large;
+}
+h3{
+    text-align: center;
+}
